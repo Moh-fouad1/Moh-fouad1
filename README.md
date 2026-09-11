@@ -1,131 +1,15 @@
-# Mohamed Fouad
+# 💫 About Me:
+I'm a Software Developer interested in building web applications, software, and digital products. I enjoy working across both frontend and backend development, turning ideas into practical and reliable applications.<br><br>I'm currently focused on improving my skills in full-stack development, software architecture, and building scalable systems. I also enjoy exploring different technologies and applying them to real-world projects.<br>
 
-### Software Developer
 
-I build web applications, software, and digital products with a focus on full-stack development, backend systems, and practical problem solving.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Moh-fouad1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Moh-fouad1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Moh-fouad1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-My experience spans frontend, backend, databases, desktop applications, and software architecture.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Moh-fouad1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## Tech Stack
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* NestJS
-* Python
-* Django
-* REST APIs
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* SQLite
-
-### Programming Languages
-
-* C++
-* Java
-* Python
-* JavaScript
-* TypeScript
-* Rust
-
-### Desktop & Other Technologies
-
-* JavaFX
-* JUCE
-* Tauri
-* Git
-* GitHub
-* Docker
-* Cloudflare
-
----
-
-## Featured Projects
-
-### EduHub
-
-A full-stack education platform combining online learning, teacher storefronts, offline classes, assessments, parent monitoring, and protected educational video delivery.
-
-**Technologies:** Next.js · TypeScript · NestJS · PostgreSQL · TypeORM · Tauri · Cloudflare
-
-**Source:** Private
-
----
-
-### RHINO.EG
-
-An e-commerce platform developed for the RHINO.EG startup.
-
-The platform includes product management, shopping cart functionality, custom design uploads, promotional codes, checkout, reviews, and order management.
-
-**Technologies:** Python · Django · PostgreSQL · JavaScript · HTML · CSS
-
----
-
-### Audio Player & Mixer
-
-A desktop audio application developed using C++ and JUCE, focusing on audio playback and mixing functionality.
-
-**Technologies:** C++ · JUCE
-
----
-
-### Masroofy — مصروفي
-
-A desktop budgeting application designed around the spending habits of Egyptian students and young adults.
-
-The application provides dynamic daily spending limits, expense tracking, spending analytics, rollover calculations, budget alerts, and privacy controls.
-
-**Technologies:** Java · JavaFX · MVC · MySQL
-
----
-
-### Baby Photoshop
-
-A C++ image-processing application implementing 14 image filters and transformations, including grayscale, thresholding, image inversion, merging, rotation, cropping, resizing, edge detection, blur, oil painting, and a retro TV effect.
-
-**Technologies:** C++ · Image Processing
-
----
-
-## Areas of Interest
-
-* Full-Stack Web Development
-* Frontend Development
-* Backend Development
-* REST API Design
-* Database Design
-* Software Architecture
-* Desktop Applications
-* Image Processing
-* Multimedia Applications
-* Product Development
-
----
-
-## Development
-
-I enjoy working across the full development process — from designing interfaces and APIs to building database systems and turning an idea into a working product.
-
-I'm particularly interested in projects where frontend, backend, infrastructure, and product decisions come together.
-
----
-
-## Connect
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/Moh-fouad1)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
